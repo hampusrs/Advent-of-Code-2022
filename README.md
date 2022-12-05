@@ -1,7 +1,7 @@
 # Advent of Code 2022
 My solutions to Advent of Code 2022 <br>
 Written in Python <br>
-Event: [adventofcode.com/2022](adventofcode.com/2022)
+Event: [adventofcode.com/2022](https://adventofcode.com/2022)
 
 ## Completion Calendar :star:
 |           Mon            |        Tue         |        Wed         |           Thu            |           Fri            |           Sat            |           Sun            |
