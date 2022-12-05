@@ -26,8 +26,8 @@ def main():
     totals = find_totals(elfs)
     totals.sort(reverse = True)
 
-    print("Question 1: %d" % (totals[0]))
-    print("Question 2: %d" % (totals[0]+totals[1]+totals[2]))
+    ans = totals[0]+totals[1]+totals[2]
+    print("Answer: %s" % ans)
 
 if __name__ == '__main__':
     main()
