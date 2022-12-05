@@ -1,8 +1,9 @@
 # Advent of Code 2022
 My solutions to Advent of Code 2022 <br>
-Event: adventofcode.com/2022
+Written in Python <br>
+Event: [adventofcode.com/2022](adventofcode.com/2022)
 
-## Completion Calendar ⭐
+## Completion Calendar :star:
 |           Mon            |        Tue         |        Wed         |           Thu            |           Fri            |           Sat            |           Sun            |
 |:------------------------:|:------------------:|:------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
 |                          |                    |                    | Day 01 <br> :star::star: | Day 02 <br> :star::star: | Day 03 <br> :star::star: | Day 04 <br> :star::star: |
