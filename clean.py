@@ -1,5 +1,5 @@
 def read_file(file):
-    file = open(file, 'r')
+    file = open(file, 'r').readlines()
     data = []
 
     return data
